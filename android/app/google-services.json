@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1037727275560",
+    "project_id": "bastionextask",
+    "storage_bucket": "bastionextask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037727275560:android:75f3da2be39f1ddd72b31d",
+        "android_client_info": {
+          "package_name": "com.bastionex.bastionex_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtvrGiLK7NDKmyAriIbyOb-2hc7kWeFIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
